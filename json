@@ -1,0 +1,1 @@
+{"status":"success","country":"Indonesia","countryCode":"ID","region":"KI","regionName":"East Kalimantan","city":"Bontang","zip":"","lat":0.120863,"lon":117.48,"timezone":"Asia/Makassar","isp":"PT Telekomunikasi Selular Indonesia","org":"","as":"AS23693 PT. Telekomunikasi Selular","query":"114.125.183.164"}
